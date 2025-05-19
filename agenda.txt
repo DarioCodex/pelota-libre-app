@@ -2,42 +2,42 @@
 - 18/05/2025
 River,Boca
 22:00,arg
-tyc,espn,start
+TyC Sports,ESPN,Start+
 champions,todos
 ---
 Argentina,Brasil
 20:00,arg
-tyc,espnpremiun,tvp
+TyC Sports,ESPN,Start+
 
 - 19/05/2025
 River,Boca
 22:00,arg
-tyc,espn,start
+TyC Sports,ESPN,Start+
 champions,todos
 ---
 Argentina,Brasil
 20:00,arg
-tyc,espnpremiun,tvplublica
+TyC Sports,ESPN,Start+,ESPN Premiun,Tv Publica
 mundial,todos
 
 - 20/05/2025
 River,Pato
 22:00,arg
-tyc,espn,start
+TyC Sports,ESPN,Start+
 champions,todos
 ---
 Argentina,Uruguay
 20:00,arg
-tyc,espnpremiun,tvplublica
+TyC Sports,ESPN,Start+,ESPN Premiun,Tv Publica
 mundial,todos
 
 - 21/05/2025
 River,Plata
 22:00,arg
-tyc,espn,start
+TyC Sports,ESPN,Start+
 champions,todos
 ---
 Argentina,Pero
 20:00,arg
-tyc,espnpremiun,tvplublica
+TyC Sports,ESPN,Start+,ESPN Premiun,Tv Publica
 mundial,todos

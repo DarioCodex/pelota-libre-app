@@ -1,0 +1,43 @@
+
+- 18/05/2025
+River,Boca
+22:00,arg
+tyc,espn,start
+champions,todos
+---
+Argentina,Brasil
+20:00,arg
+tyc,espnpremiun,tvp
+
+- 19/05/2025
+River,Boca
+22:00,arg
+tyc,espn,start
+champions,todos
+---
+Argentina,Brasil
+20:00,arg
+tyc,espnpremiun,tvplublica
+mundial,todos
+
+- 20/05/2025
+River,Pato
+22:00,arg
+tyc,espn,start
+champions,todos
+---
+Argentina,Uruguay
+20:00,arg
+tyc,espnpremiun,tvplublica
+mundial,todos
+
+- 21/05/2025
+River,Plata
+22:00,arg
+tyc,espn,start
+champions,todos
+---
+Argentina,Pero
+20:00,arg
+tyc,espnpremiun,tvplublica
+mundial,todos

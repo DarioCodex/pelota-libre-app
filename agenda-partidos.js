@@ -141,7 +141,7 @@ function showMatches(categoria) {
 }
 
 // Cargar archivo externo con la agenda
-fetch('https://raw.githubusercontent.com/DarioCodex/pelota-libre-app/refs/heads/main/agenda.txt')
+fetch('https://raw.githubusercontent.com/DarioCodex/pelota-libre-app/main/agenda.txt')
   .then(response => {
     if (!response.ok) throw new Error('No se pudo cargar el archivo');
     return response.text();
